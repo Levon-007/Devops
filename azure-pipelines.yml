@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: Health
+pool: Azure Pipelines
   
 
 steps:
