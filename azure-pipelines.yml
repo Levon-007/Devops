@@ -6,7 +6,8 @@
 trigger:
 - main
 
-pool: Health
+pool: 
+    name: 'Health'
   
 
 steps:
